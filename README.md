@@ -1,6 +1,6 @@
 # zoomclone
 <p>
-  this is a project based on a video stream,screen sharing like google meet and in zoom
+  this is a project based on a video stream,screen sharing application like google meet and in zoom
 </p>
 <p>
   as it is not published in google it cant funcn in any network </br>
@@ -9,3 +9,5 @@
   You can get your Ipv4 address in command prompt
 </p>
   
+<p>
+  packages used are tkinter,vidstream and socket
